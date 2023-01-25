@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+}
+.title{
+    text-align: center;
+    margin: 3%;
+    color: white;
+    font-size: larger;
+}
+.buttons{
+    text-align: center;
+    font-size: 50px; 
+}
+.buttons a{
+    text-decoration: none;
+}
+.buttons > li{
+    background-color: pink;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 2%;
+    margin-left: 43%;
+    margin-right: 43%;
+    box-shadow: 5px 5px 15px;
+    border-radius: 10%;
+}
